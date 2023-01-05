@@ -15,8 +15,7 @@ someone who likes to play competitive games but never wins, my parents once said
 🕵🏽‍♂️ Fun fact, I play competitive games, never win, aka loser | play cities skyline more often with football manager
 
 ## 🕹 Portofolio
-<a href="https://hkldtrinanda.itch.io" target="_blank"> ![Itch.io](https://img.shields.io/badge/-Itch.Io-pink) </a>
-
+<a href="https://hkldtrinanda.itch.io" target="_blank"> ![Itch.io](https://img.shields.io/badge/-Itch.Io-pink) </a> <a href="https://hkldtrinanda.works" target="_blank"> ![Website](https://img.shields.io/badge/-Website-green) </a>
 
 ## 🌐 Tech Stack
 
