@@ -21,10 +21,5 @@ someone who likes to play competitive games but never wins, my parents once said
 
 ## 📈 Github Stats
 ---
-![](https://github-readme-stats.vercel.app/api?username=hkldtrinanda&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=hkldtrinanda&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hkldtrinanda&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hkldtrinanda&theme=dark&hide_border=false)
-<div style="margin-left: auto;
-            margin-right: auto;
-            width: 30%">
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hkldtrinanda&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
