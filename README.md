@@ -5,9 +5,13 @@ someone who likes to play competitive games but never wins, my parents once said
 ## 🚀 About Me
 ---
 👨🏽‍💻 I am a freelancer who has made game prototypes either AR / VR or something else
+
  💻 I’m currently learning UnityEngine with C#
+ 
  👨🏼‍🎨 Sometimes it's fun to make Instagram filters
+ 
 💌  Reach me at hkldtrinanda12@gmail.com
+
 🕵🏽‍♂️ Fun fact, I play competitive games, never win, aka loser | play cities skyline more often with football manager
 
 
